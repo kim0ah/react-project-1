@@ -1,0 +1,29 @@
+.content_style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: calc(100vh - 80px);
+    color: #fff;
+    font-size: 3rem;
+}
+
+.slide_1 {
+    background: url("/src/assets/neom-TA5hw14Coh4-unsplash.jpg") no-repeat center/cover;
+}
+
+.slide_2 {
+    background: url("/src/assets/boston-public-library-IYum3FXHozU-unsplash.jpg") no-repeat center/cover;
+}
+
+.slide_3 {
+    background: url("/src/assets/eirik-skarstein-gwJLoxNgnA8-unsplash.jpg") no-repeat center/cover;
+}
+
+.slide_4 {
+    background: url("/src/assets/neom-bOMVTvE2QFU-unsplash.jpg") no-repeat center/cover;
+}
+
+.hero {
+    max-width: calc(100% - 256px);
+}

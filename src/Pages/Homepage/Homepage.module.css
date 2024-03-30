@@ -1,0 +1,8 @@
+.section_1 {
+    display: flex;
+}
+
+.calendar_container {
+    max-width: 1400px;
+    margin: 20px auto;
+}

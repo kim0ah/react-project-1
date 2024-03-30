@@ -1,0 +1,27 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.header_area {
+    width: 1200px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo_title {
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #2D3246;
+}
+
+.links {
+    display: flex;
+    gap: 70px;
+}
